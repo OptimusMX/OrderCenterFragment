@@ -16,11 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-<<<<<<< HEAD
         <activity android:name=".activity.OneStyleActivity"/>
         <activity android:name=".activity.TwoStyleActivity"/>
-=======
->>>>>>> bcb3428c89f43ba463c4206feb8e791dc79ad380
     </application>
 
 </manifest>

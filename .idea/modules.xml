@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/OrderCenterFragment.iml" filepath="$PROJECT_DIR$/OrderCenterFragment.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/githubOrderCenterFragment.iml" filepath="$PROJECT_DIR$/githubOrderCenterFragment.iml" />
+      <module fileurl="file://D:\GithubDemo\OrderCenterFragment\OrderCenterFragment\app\app.iml" filepath="D:\GithubDemo\OrderCenterFragment\OrderCenterFragment\app\app.iml" />
+      <module fileurl="file://D:\GithubDemo\OrderCenterFragment\OrderCenterFragment\githubOrderCenterFragment.iml" filepath="D:\GithubDemo\OrderCenterFragment\OrderCenterFragment\githubOrderCenterFragment.iml" />
     </modules>
   </component>
 </project>
